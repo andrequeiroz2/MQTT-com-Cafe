@@ -1,17 +1,7 @@
 /*
 Projeto Coffee IOT (V 1.0)
 Código Final
-Hardware envolvido: (Motor de Passo Epson EM-232),
-                    (NodeMCU ESP8266)
-                    
-Referência do Código: 
-https://www.arduino.cc/
-
-https://www.hackster.io/anasdalintakam/mqtt-publish-subscribe-using-rpi-esp-and-photon-864fe9
-
-https://randomnerdtutorials.com/raspberry-pi-publishing-mqtt-messages-to-esp8266/
-
-
+Hardware envolvido: (modulo rele 1 canal),(NodeMCU ESP8266)
 */
 
 #include <ESP8266WiFi.h>
