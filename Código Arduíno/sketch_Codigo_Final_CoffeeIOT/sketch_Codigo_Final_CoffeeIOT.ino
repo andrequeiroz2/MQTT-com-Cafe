@@ -18,8 +18,8 @@ https://randomnerdtutorials.com/raspberry-pi-publishing-mqtt-messages-to-esp8266
 #include <PubSubClient.h>
 
 
-const char* ssid = "Zhone_E54A";
-const char* password = "znid309430346";
+const char* ssid = "seu ssid";
+const char* password = "seu password";
 const char* mqtt_server = "iot.eclipse.org";
 
 WiFiClient espClient;
